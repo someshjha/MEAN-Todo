@@ -1,0 +1,12 @@
+{
+    "test": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://sjha:Beelzebub3@ds127063.mlab.com:27063/todotestapp",
+        "JWT_SECRET": "1982hshhsaiue72hdbxbjwhewy293898"
+    },
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URI": "mongodb://sjha:Beelzebub3@ds127063.mlab.com:27063/todosapp",
+        "JWT_SECRET": "qsiqpouiwqu1298odujqkasjqiowu1ui2"
+    }
+}
